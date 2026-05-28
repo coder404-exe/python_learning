@@ -9,7 +9,15 @@
 age = 20
 marks = 95
 ```
+# Extra Notes
 
+## Check Data Type
+Use `type()` to check the datatype of a variable.
+
+### Example
+```python
+x = 10
+print(type(x))
 ---
 
 ## 2. Float (`float`)
