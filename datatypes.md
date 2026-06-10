@@ -2,6 +2,7 @@
 
 ## 1. Integer (`int`)
 - Stores whole numbers
+-
 - No decimal values
 
 ### Example
