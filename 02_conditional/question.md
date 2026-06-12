@@ -58,7 +58,6 @@ Problem: Check if a password is "Weak", "Medium", or "Strong". Criteria: < 6 cha
 
 </details>
 
-
 <details>
 <summary>9. Leap Year Checker
 </summary>
