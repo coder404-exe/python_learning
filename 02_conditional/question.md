@@ -43,7 +43,7 @@ Problem: Choose a mode of transportation based on the distance (e.g., <3 km: Wal
 </details>
 
 
-<details>
+<details>qaaq
 <summary>7. Coffee Customization
 </summary>
 Problem: Customize a coffee order: "Small", "Medium", or "Large" with an option for "Extra shot" of espresso.
