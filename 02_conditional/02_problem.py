@@ -2,6 +2,7 @@
 day = input("What is the day : ")
 age =int(input("Enter age : "))
 
+
 # if day.lower()!="wednesday":
 #     if age>=18 :
 #         ticket_price=12
